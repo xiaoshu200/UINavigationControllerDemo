@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface RootViewController : UIViewController
+- (IBAction)gotoSecondView:(UIButton *)sender;
 
 @end
